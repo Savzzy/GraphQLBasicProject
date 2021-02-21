@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "24",
+      "firstName": "samantha",
+      "age": 28,
+      "companyId": "1"
+    },
+    {
+      "id": "25",
+      "firstName": "Agatha",
+      "age": 26,
+      "companyId": "2"
+    },
+    {
+      "id": "26",
+      "firstName": "Christie",
+      "age": 40,
+      "companyId": "2"
+    },
+    {
+      "firstName": "Milo",
+      "age": 10,
+      "id": "wvY7C_V"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Nokia",
+      "description": "Neworks"
+    },
+    {
+      "id": "2",
+      "name": "OpenTable",
+      "description": "Resuarants"
+    }
+  ]
+}
